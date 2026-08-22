@@ -1,0 +1,10 @@
+Python 3.10.x
+
+sentence-transformers
+scikit-learn
+
+to run:
+python .\agenticmemory\context_analysis.py
+python .\agenticmemory\importance_analysis.py
+python .\agenticmemory\persistence_analysis.py
+python .\agenticmemory\memory_analyzer.py
